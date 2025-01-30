@@ -1,3 +1,10 @@
+# Prompt
+```
+I need to run jenkins within a local k3d Kubernetes cluster as a pod
+When deploying jenkins, i want to provide it my private ssh key so that it can pull from bitbucket
+Provide the code to do this
+```
+
 To deploy Jenkins in a local `k3d` Kubernetes cluster and provide it with your private SSH key for pulling from Bitbucket, you can follow these steps:
 
 ### 1. Create a Kubernetes Secret for the SSH Key
