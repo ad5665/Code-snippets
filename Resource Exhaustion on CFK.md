@@ -1,3 +1,10 @@
+# Prompt Using Gemini Advanced 
+```
+write a Resilience Scenario for Deploying Confluent for Kubernetes
+
+the first scenario is " Resource Exhaustion (CPU, Memory, Storage, etc.)" 
+```
+
 ## Resilience Scenario: Resource Exhaustion (CPU, Memory, Storage) for Confluent for Kubernetes
 
 This scenario focuses on the resilience of a Confluent for Kubernetes (CFK) deployment when faced with resource exhaustion, specifically targeting CPU, memory, and storage.  We'll explore the impact, detection, and recovery strategies.
